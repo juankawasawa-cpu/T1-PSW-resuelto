@@ -14,3 +14,7 @@ Proyecto base: matrícula de cursos (Spring Boot 4.1.0, Java 17, Maven). Base de
 - Pregunta 3: `src/test/resources/features/*.feature`, `src/test/java/com/pruebas/bdd/steps/*StepDefinitions.java` y una clase runner en `src/test/java/com/pruebas/bdd/`.
 
 El `pom.xml` ya incluye JUnit 5, Mockito, Rest Assured y Cucumber.
+
+## Estado de validación de este paquete
+
+Los archivos de prueba y la configuración quedaron preparados, pero no fue posible ejecutar Maven en el entorno de preparación porque el Maven Wrapper no pudo descargar Maven desde Maven Central. Por ello, no se afirma que las pruebas hayan sido ejecutadas aquí. La validación final debe realizarse en tu PC después de que Maven descargue las dependencias.
