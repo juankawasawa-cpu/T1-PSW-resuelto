@@ -14,8 +14,8 @@ import com.pruebas.repository.InscripcionRepository;
  * NO modificar: los enunciados de la evaluación dependen de estos datos.
  *
  * Cursos (ids 1, 2 y 3 en una base H2 recién creada):
- *   1 - Pruebas de Software       - S/ 450.0 - 30 vacantes
- *   2 - Seguridad de Aplicaciones - S/ 380.0 - 25 vacantes
+ *   1 - Seguridad de Aplicaciones - S/ 380.0 - 25 vacantes
+ *   2 - Pruebas de Software       - S/ 450.0 - 30 vacantes
  *   3 - Base de Datos II          - S/ 420.0 - 20 vacantes
  *
  * Inscripciones:
